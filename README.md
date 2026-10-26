@@ -1,6 +1,6 @@
 # KAIZEN DŌJŌ 2026 · Nuestro repositorio de misión
 
-> **Equipo:** `[nombre-del-equipo]` · **Plataforma:** `[M01 / M03 / M04 / M05]` · **Dōjō (salón/taller):** `[por confirmar en E1]`  
+> **Equipo:** `[Rayden]` · **Plataforma:** `[M01]` · **Dōjō (salón/taller):** `[por confirmar en E1]`  
 > **Nuestra misión:** `[el robot hará X, en condiciones Y, con criterio de éxito Z]`  
 > **Estado actual:** `Día 1 / V1 / Kaizen 1 / Kaizen 2 / Demostración`
 
