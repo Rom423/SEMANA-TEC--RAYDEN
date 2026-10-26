@@ -47,11 +47,10 @@ revision_docente: "PENDIENTE"
 
 | Elemento | Observación directa | Evidencia / vínculo |
 |---|---|---|
-| Plataforma base inspeccionada (estado, modelo, ID inventario) | [ ] | [enlace / foto no sensible] |
-| Funciones existentes y límites comprobados | [ ] | [enlace] |
-| Paro de emergencia / desconexión segura ensayados | [ ] | [enlace / tutor responsable] |
-| Restricciones de competición o exhibición verificadas | [ ] | [fuente / por verificar] |
-| Riesgos vistos y medidas activas | [ ] | [docs/seguridad.md] |
+| Plataforma base inspeccionada (estado, modelo, ID inventario) | Minisumo en operación | [enlace / foto no sensible] |
+| Funciones existentes y límites comprobados | CAD completo, electrónica funcional, función de búsqueda y ataque en proceso de mejora. | [enlace] |
+| Restricciones de competición o exhibición verificadas | Completado | [fuente / por verificar] |
+| Riesgos vistos y medidas activas | Generar protector para la cuchilla | [docs/seguridad.md] |
 
 **Normas específicas según misión:**
 - **M01:** protecciones de alimentación; desarmar motores antes de tocar ruedas; dohyō delimitado, rival de referencia y bordes seguros.
@@ -59,19 +58,7 @@ revision_docente: "PENDIENTE"
 - **M04:** espacio interior autorizado, observador humano, altura y desplazamientos limitados, baterías y aterrizaje inmediato; *verificar modelo real de Tello*.
 - **M05:** ROS 2 y TF/navegación listos; límites de velocidad, sensor de obstáculos, paro seguro y zona de tránsito marcada.
 
-## 3 · Diagnóstico práctico colectivo (35–65 min)
-
-**Condición inicial V0 de la plataforma:** [Robot completo / kit / subensambles / simulador; qué funciona y qué falta]
-
-| Prueba diagnóstica | Condición y procedimiento | Resultado observado / unidad | Problema / causa probable | Evidencia |
-|---|---|---|---|---|
-| [1: movimiento o comunicación] | [...] | [...] | [...] | [enlace] |
-| [2: lectura de sensor] | [...] | [...] | [...] | [enlace] |
-| [3: comportamiento de la misión] | [...] | [...] | [...] | [enlace] |
-
-**Capacidades ya disponibles y dependencias:** [qué módulos se pueden reutilizar, y qué necesita cada alcance de otro integrante.]
-
-## 4 · Integración de Mission Forge C2 y pacto de alcances (65–100 min)
+## 3 · Integración de Mission Forge C2 y pacto de alcances (65–100 min)
 
 Cada participante debe colocar el archivo **Markdown original generado por la web** en:
 
@@ -83,9 +70,10 @@ Se conserva íntegro (incluido el frontmatter y la lista de katas). Los nuevos a
 
 | Alias | Kit enlazado | Alcance principal | Complementos | Katas elegidos o nuevos | Horas mín.–máx. | Evidencia final esperada | Negociación aprobada |
 |---|---|---|---|---|---|---|---|
-| [@alias] | [compromiso.md] | [MS01] | [MS02 / ninguno] | [K1, K3 / propio] | [6–8 h] | [CAD ensamblado + prueba] | [Sí / Pendiente; revisor] |
+| @ROM423 | participantes/compromiso-kaizen-mauricio-rodriguez-martinez.md | MSO02 | MS05, MS06 | K1, K3 | [9–12 h] | Video de pruebas, donde el robot es funcional | Sí |
+| @mimprogramando | participantes/compromiso-kaizen-karla-ximena-jaime-neri.md | MSO07 | MS10, MS11 | K1, K2, K3 | [9–12 h] | Video de registro de pruebas de mejora y documentación del código | Sí |
 
-**Resultado de negociación grupal:** [Puntos de integración; interfaces entre códigos/firmware/sensores/estructura; prioridad si no hay tiempo.]
+**Resultado de negoROMciación grupal:** [Puntos de integración; interfaces entre códigos/firmware/sensores/estructura; prioridad si no hay tiempo.]
 
 ## 5 · Inventario exhaustivo y especificación de materiales (obligatorio)
 
@@ -95,7 +83,14 @@ Completar **cada recurso requerido**: estructura, electrónica, actuadores, sens
 
 | ID | Categoría | Material o recurso (especificación exacta: modelo, medida, versión o característica) | Cantidad requerida + unidad | Cantidad confirmada | Fuente/proveedor o dueño | Ubicación física o ruta digital | Responsable | Estado (disponible/reservado/falta) | Alternativa compatible | Día requerido |
 |---|---|---|---|---|---|---|---|---|---|---|
-| MAT-001 | [Robot/plataforma] | [Modelo preciso y compatibilidad] | [1 ud.] | [?] | [laboratorio/equipo] | [armario] | [@alias] | [por confirmar] | [alternativa] | [D1] |
+| MAT-001 | ROBOT Mini sumo | Robot Rayden| 1 unidad | 1 unidad | Equipo Rayden | En nuestra propiedad | @Rom423 | Disponible | ROBOT MAMI | Día 1 |
+| MAT-002 | Mecánica | Diseño CAD / Impresión 3D | 1 unidad | 1 unidad | Equipo Rayden | En nuestra propiedad | @Rom423 | Disponible | Reimpresión | Día 1
+| MAT-003 | Electrónica| PCB JSUMO | 1 unidad | 1 unidad | Equipo Rayden | En nuestra propiedad | @mimiprogrmando | Disponible | PCB JSUMO DE ROBOT MAMI | Día 1
+| MAT-002 | [Mecánica/electrónica/sensor] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| MAT-002 | [Mecánica/electrónica/sensor] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| MAT-002 | [Mecánica/electrónica/sensor] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| MAT-002 | [Mecánica/electrónica/sensor] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| MAT-002 | [Mecánica/electrónica/sensor] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 | MAT-002 | [Mecánica/electrónica/sensor] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 | MAT-003 | [Herramienta/seguridad/medición] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
 | MAT-004 | [Software/datos/conectividad] | [SO + versión, ROS/Python/OpenCV o controlador, puerto/red] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
