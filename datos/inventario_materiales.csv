@@ -1,0 +1,2 @@
+id,categoria,descripcion_especificacion,cantidad_requerida,unidad,cantidad_confirmada,proveedor_propietario,ubicacion,responsable_alias,estado,alternativa,dia_requerido,riesgo_si_falta,verificado_por,fecha_verificacion
+MAT-001,Plataforma,Modelo exacto a confirmar,,ud,,,,,POR_CONFIRMAR,,D1,,,
