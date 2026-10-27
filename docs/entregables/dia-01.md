@@ -127,10 +127,5 @@ También disponible el archivo [`datos/inventario_materiales.csv`](../../datos/i
 - [ SI ] Se identificaron dependencias y bloqueos del Día 2; están bajo control o se ajustó la misión.
 - [ SI ] El profesor aprobó el alcance y la seguridad, o registró observaciones y una alternativa viable.
 
-**Estado del gate:** [APROBADO / APROBADO CON CONDICIONES / REPLANIFICAR].
-
-**Condiciones, responsables, fecha y próxima decisión:** [ ... ]
-
-**Revisor docente:** [ ... ] · **Enlace a commit/PR:** [ ... ]
 
 **Criterio mínimo E1:** existe un contrato de misión y frontera individual, hay evidencia del punto de partida, un inventario verificable y un espacio de trabajo autorizado. La ausencia de algún material crítico NO debe esconderse.
