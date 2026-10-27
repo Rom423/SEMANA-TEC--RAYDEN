@@ -84,17 +84,11 @@ Completar **cada recurso requerido**: estructura, electrónica, actuadores, sens
 | ID | Categoría | Material o recurso (especificación exacta: modelo, medida, versión o característica) | Cantidad requerida + unidad | Cantidad confirmada | Fuente/proveedor o dueño | Ubicación física o ruta digital | Responsable | Estado (disponible/reservado/falta) | Alternativa compatible | Día requerido |
 |---|---|---|---|---|---|---|---|---|---|---|
 | MAT-001 | ROBOT Mini sumo | Robot Rayden| 1 unidad | 1 unidad | Equipo Rayden | En nuestra propiedad | @Rom423 | Disponible | ROBOT MAMI | Día 1 |
-| MAT-002 | Mecánica | Diseño CAD / Impresión 3D | 1 unidad | 1 unidad | Equipo Rayden | En nuestra propiedad | @Rom423 | Disponible | Reimpresión | Día 1
-| MAT-003 | Electrónica| PCB JSUMO | 1 unidad | 1 unidad | Equipo Rayden | En nuestra propiedad | @mimiprogrmando | Disponible | PCB JSUMO DE ROBOT MAMI | Día 1
-| MAT-002 | [Mecánica/electrónica/sensor] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| MAT-002 | [Mecánica/electrónica/sensor] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| MAT-002 | [Mecánica/electrónica/sensor] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| MAT-002 | [Mecánica/electrónica/sensor] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| MAT-002 | [Mecánica/electrónica/sensor] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| MAT-002 | [Mecánica/electrónica/sensor] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| MAT-003 | [Herramienta/seguridad/medición] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| MAT-004 | [Software/datos/conectividad] | [SO + versión, ROS/Python/OpenCV o controlador, puerto/red] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
-| MAT-005 | [Zona de pruebas] | [Pista/dohyō/marcadores/mapa; dimensiones y configuración] | [...] | [...] | [...] | [...] | [...] | [...] | [...] | [...] |
+| MAT-002 | Mecánica | Diseño CAD / Impresión 3D | 1 unidad | 1 unidad | Equipo Rayden | En nuestra propiedad | @Rom423 | Disponible | Reimpresión | Día 1 |
+| MAT-003 | Electrónica| PCB JSUMO | 1 unidad | 1 unidad | Equipo Rayden | En nuestra propiedad | @mimiprogramando | Disponible | PCB JSUMO DE ROBOT MAMI | Día 1 |
+| MAT-002 | Sensor | Sensor IR | 5 unidades | 5 unidades | Equipo Rayden | En nuestra propiedad | @mimiprogramando | Disponible | Sensores de repuesto | Día 1 |
+| MAT-002 | Sensor | Sensor QTR | 2 unidades | 2 unidades | Equipo Rayden | En nuestra propiedad | @mimiprogramando | Disponible | Sensores de repuesto | Día 1 |
+| MAT-004 | Programación | Arduino | 1 unidad | 1 unidad | Equipo Rayden | En nuestra propiedad | @Rom423 | Disponible | Programación | Día 1 |
 
 También disponible el archivo [`datos/inventario_materiales.csv`](../../datos/inventario_materiales.csv) para registrar muchos materiales sin agrandar esta tabla.
 
@@ -103,9 +97,6 @@ También disponible el archivo [`datos/inventario_materiales.csv`](../../datos/i
 | Misión | Revisar y especificar (marca/modelo/cantidad reales) |
 |---|---|
 | M01 · Mini-sumo autónomo | Chasis y material para cuñas, ruedas/motores/soportes, driver, controlador y firmware, batería/cargador/fusible, sensores de borde y rival, cableado/conectores, dohyō/rival de referencia, CAD/impresora 3D/herramientas, instrumentos de medición y protocolo de paro. |
-| M03 · Seguidor de línea | Chasis/ruedas/motores, driver, controlador, barra de sensores reflectivos/soportes, batería/cargador, placa y cableado, pista con curvas y superficie definida, software de programación, cinta/regla/cronómetro/instrumentos y paro seguro. |
-| M04 · Tello Python | **Modelo Tello verificado** y baterías suficientes, cargador, computadora y adaptador Wi-Fi, versión Python y SDK compatible, OpenCV si aplica, marcadores visuales impresos, área interior de vuelo demarcada, supervisor/observador, barreras y protocolo de aterrizaje/abortos. |
-| M05 · AMR ROS 2 | Base AMR y baterías/cargador, computador y distribución ROS 2/paquetes, workspace y repositorio base, sensores (p. ej. lidar/odometría), mapa y TF/localización, RViz/Nav2 si aplica, red de comunicación, estaciones/marcadores, área de navegación acordonada, instrumento de medida y paro seguro. |
 
 **Enlaces a fichas técnicas / instrucciones de conexión, fabricación y seguridad:** [URLs o rutas dentro del repositorio.]
 
@@ -113,7 +104,7 @@ También disponible el archivo [`datos/inventario_materiales.csv`](../../datos/i
 
 | Bloqueante | A qué alcance afecta | Solución prevista / fecha y responsable | Impacto si no se resuelve |
 |---|---|---|---|
-| [material o software aún no validado] | [...] | [...] | [reducir alcance / simulación / replanificar] |
+| Todo validado | NA| NA | NA |
 
 **Materiales completos para ejecutar el Día 2:** [Sí / Parcial / No]. **Confirmado por:** [docente y responsable equipo] a [fecha/hora].
 
@@ -121,20 +112,20 @@ También disponible el archivo [`datos/inventario_materiales.csv`](../../datos/i
 
 | Integrante/alcance | Pregunta técnica | Mini-prueba o prototipo de exploración | Resultado o error observado | Evidencia enlazada | Acción necesaria antes de D2 |
 |---|---|---|---|---|---|
-| [@alias / ID] | [qué quiero verificar] | [qué hice] | [qué ocurrió] | [commit/foto/log] | [acción] |
+| @mimiprogramando | Verificar el funcionamiento de la programación | Preparar el programa | Compilar para verificar el programa |
 
 **Integración entre subequipos:** [Qué interfaz se dejó validada: alimentación, dimensiones, tópicos, salida sensorial, etc.]
 
 ## 7 · Cierre: contrato técnico y puerta de salida E1 (160–180 min)
 
-- [ ] El objetivo colectivo tiene condición de éxito verificable.
-- [ ] Cada estudiante depositó **su kit Markdown original** en `participantes/<alias>/compromiso.md`.
-- [ ] Cada estudiante completó [E1 personal](../../participantes/_plantilla/dias/E1.md) y definió frontera, evidencia y alcance negociado.
-- [ ] El inventario está **completo** y cada recurso indica cantidad, especificación, disponibilidad y responsable.
-- [ ] Se asignó **dōjō específico** con edificio, salón/taller, horarios, supervisión y autorización.
-- [ ] Se inspeccionaron riesgos, paro y condiciones de seguridad de la plataforma.
-- [ ] Se identificaron dependencias y bloqueos del Día 2; están bajo control o se ajustó la misión.
-- [ ] El profesor aprobó el alcance y la seguridad, o registró observaciones y una alternativa viable.
+- [ SI ] El objetivo colectivo tiene condición de éxito verificable.
+- [ SI ] Cada estudiante depositó **su kit Markdown original** en `participantes/<alias>/compromiso.md`.
+- [ SI ] Cada estudiante completó [E1 personal](../../participantes/_plantilla/dias/E1.md) y definió frontera, evidencia y alcance negociado.
+- [ SI ] El inventario está **completo** y cada recurso indica cantidad, especificación, disponibilidad y responsable.
+- [ SI ] Se asignó **dōjō específico** con edificio, salón/taller, horarios, supervisión y autorización.
+- [ SI ] Se inspeccionaron riesgos, paro y condiciones de seguridad de la plataforma.
+- [ SI ] Se identificaron dependencias y bloqueos del Día 2; están bajo control o se ajustó la misión.
+- [ SI ] El profesor aprobó el alcance y la seguridad, o registró observaciones y una alternativa viable.
 
 **Estado del gate:** [APROBADO / APROBADO CON CONDICIONES / REPLANIFICAR].
 
