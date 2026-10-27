@@ -87,8 +87,8 @@ Completar también [`pruebas/protocolo.md`](../../pruebas/protocolo.md) y regist
 
 | Fallo o cuello de botella observado | Hipótesis preliminar | Prioridad | Responsable | Material / apoyo necesario |
 |---|---|---|---|---|
-| La disposición física limita la cobertura a 45°. | Alta | @ROM423 | Reorientar soportes CAD de sensores. | [...] |
-
+| Ángulo ciego entre sensores IR frontales y laterales. | La disposición física limita la cobertura a 45°. | Alta | @ROM423 | Reorientar soportes CAD de sensores. |
+| Transición lenta entre giro y aceleración máxima. |Delays altos en el código FSM. | Media | @mimiprogramando| Optimización de timers sin bloqueos (millis).|
 - [ ] Hay prototipo V1, subsistema funcional verificable o fallo reproducible con condiciones registradas.
 - [ ] Existen archivos fuente o evidencia técnica enlazada, además de videos de uso controlado cuando correspondan.
 - [ ] Hay protocolo reproducible y valores basales con unidad o justificación de lo que no pudo medirse.
