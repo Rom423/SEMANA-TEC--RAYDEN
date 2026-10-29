@@ -1,1 +1,21 @@
 fecha,version,alcance_id,ensayo,condicion,metrica,unidad,valor,resultado,observaciones
+2026-10-27,V1,MS10,1,Rival al frente a 20 cm,tiempo_reaccion,s,1.2,exito,Detección limpia y embestida directa
+2026-10-27,V1,MS10,2,Rival al frente a 20 cm,tiempo_reaccion,s,1.4,exito,Correcto viraje y ataque
+2026-10-27,V1,MS10,3,Rival a 45 deg derecha,tiempo_reaccion,s,2.1,exito,Tardó en detectar por ángulo ciego entre sensores IR
+2026-10-27,V1,MS11,4,Rival en borde opuesto,tiempo_reaccion,s,1.8,exito,Frenó a tiempo en la línea blanca al errar la embestida
+2026-10-27,V1,MS10,5,Rival a 45 deg izquierda,tiempo_reaccion,s,1.9,exito,Giro correcto pero lento hacia el objetivo
+2026-10-28,K1,MS10,1,Rival al frente a 20 cm,tiempo_reaccion,s,1.1,exito,Detección limpia con nuevo soporte de sensores en PLA
+2026-10-28,K1,MS10,2,Rival al frente a 20 cm,tiempo_reaccion,s,1.2,exito,Embestida directa fluida
+2026-10-28,K1,MS10,3,Rival a 45 deg derecha,tiempo_reaccion,s,1.4,exito,El nuevo ángulo del soporte eliminó la zona ciega
+2026-10-28,K1,MS11,4,Rival en borde opuesto,tiempo_reaccion,s,1.5,exito,Menos vacilación al girar y detenerse
+2026-10-28,K1,MS10,5,Rival a 45 deg izquierda,tiempo_reaccion,s,1.3,exito,Reacción y giro mucho más rápido
+2026-10-29,K2,MS10,1,Rival al frente a 20 cm,tiempo_reaccion,s,0.9,exito,Respuesta de arranque inmediata tras integrar xMotion V3
+2026-10-29,K2,MS10,2,Rival al frente a 20 cm,tiempo_reaccion,s,1.0,exito,Giro ágil sin vibración en los conectores de motor
+2026-10-29,K2,MS10,3,Rival a 45 deg derecha,tiempo_reaccion,s,1.2,exito,Buena respuesta en ángulo de 45 con sensores bien fijos
+2026-10-29,K2,MS11,4,Rival en borde opuesto,tiempo_reaccion,s,1.1,exito,Detención precisa en la línea blanca al errar embestida
+2026-10-29,K2,MS10,5,Rival a 45 deg izquierda,tiempo_reaccion,s,1.1,exito,Giro e impacto firme gracias al peso y fijación de la navaja
+2026-10-29,K2,MS10,6,Batería baja 11.1V y polvo,tiempo_reaccion,s,1.2,exito,Prueba de robustez: respuesta un poco más lenta pero estable
+2026-10-29,K2,MS10,7,Batería baja 11.1V y polvo,tiempo_reaccion,s,1.3,exito,Prueba de robustez: no hubo reinicio de la placa
+2026-10-29,K2,MS10,8,Batería baja 11.1V y polvo,tiempo_reaccion,s,1.2,exito,Prueba de robustez: tracción suficiente para empuje
+2026-10-29,K2,MS11,9,Batería baja 11.1V y polvo,tiempo_reaccion,s,1.2,exito,Prueba de robustez: detención en borde blanco correcta
+2026-10-29,K2,MS10,10,Batería baja 11.1V y polvo,tiempo_reaccion,s,1.2,exito,Prueba de robustez: rutina completada sin fallos eléctricos
