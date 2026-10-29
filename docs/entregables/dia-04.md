@@ -3,9 +3,9 @@ kaizen_dojo: "2026"
 formato: "Entregable diario G2"
 evidencia: "E4"
 dia: 4
-responsable_registro: "equipo"
+responsable_registro: "@mimiprogramando"
 estado: "PENDIENTE"
-fecha: "AAAA-MM-DD"
+fecha: "2026-10-29"
 revision_docente: "PENDIENTE"
 ---
 
@@ -15,7 +15,7 @@ revision_docente: "PENDIENTE"
 
 ## 0 · Contexto
 
-**Fecha y dōjō:** [...] · **Equipo/misión:** [...] · **Versiones trazables:** V1 [id], K1 [id] y K2 [id pendiente].
+**Fecha y dōjō:** 2026-10-29 · **Equipo/misión:** RAYDEN · **Versiones trazables:** V1 [id], K1 [id] y K2 [id pendiente].
 
 ## 1 · Ruta de actividades del Día 4 (180 min)
 
