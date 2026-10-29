@@ -28,10 +28,10 @@ revision_docente: "PENDIENTE"
 
 ## 1 · Integrantes, responsabilidades, accesibilidad y decisiones (0–15 min)
 
-| Alias GitHub | Rol inicial | Carta y frontera (D/S/E; F1–F4) | Alcances ID (1–3) | Kit personal (archivo) | Necesidad de apoyo o accesibilidad acordada |
+| Alias GitHub | Rol inicial | Carta y frontera (D/S/E; F1–F4) | Alcances ID (1–3) | Necesidad de apoyo o accesibilidad acordada |
 |---|---|---|---|---|---|
-| @ROM423 | Documentación | F3 | MS02, MS05, MS06 | [`../../participantes/alias/compromiso.md`](participantes/compromiso-kaizen-mauricio-rodriguez-martinez.md) | Ninguna |
-| @mimiprogramando| Integración | F2 | MS07, MS10, MS11 | [`../../participantes/alias/compromiso.md`](participantes/compromiso-kaizen-karla-ximena-jaime-neri.md) | Ninguna |
+| @ROM423 | Documentación | F3 | MS02, MS05, MS06 | Ninguna |
+| @mimiprogramando| Integración | F2 | MS07, MS10, MS11 | Ninguna |
 
 **Acuerdo de colaboración:** [Cómo se toman decisiones, cómo se resuelven conflictos, apoyos senpai–kōhai, pausas y distribución equitativa de participación.]
 
