@@ -21,19 +21,19 @@ revision_docente: "PENDIENTE"
 
 | Actividad | Minutos | Evidencia a registrar |
 |---|---:|---|
-| Analizar un fallo real / demostración | 0–15 | [fallo observado; condiciones] |
-| Diseño del experimento | 15–40 | [hipótesis, variable, controles, riesgo] |
-| Diagnóstico del prototipo V1 | 40–80 | [causa probable y prueba discriminante] |
-| Kaizen 1: cambio técnico | 80–125 | [diff, firmware, CAD, integración] |
-| Reensayo equivalente | 125–160 | [datos crudos V1 vs K1] |
-| Documentar, debatir, reflejar | 160–180 | [conclusión y E3 personal] |
+| Analizar un fallo real / demostración | 0–15 | Ángulo ciego en sensores IR de 45° y geometría de cuña baja ineficiente|
+| Diseño del experimento | 15–40 |Hipótesis sobre rediseño CAD en SolidWorks e impresión en PLA (Carbon Centauri 2). |
+| Diagnóstico del prototipo V1 | 40–80 | Pruebas de ensamble y análisis de cobertura de detección lateral.|
+| Kaizen 1: cambio técnico | 80–125 | Modelado 3D de nuevos soportes y cuña optimizada; impresión 3D en PLA. |
+| Reensayo equivalente | 125–160 | Datos crudos V1 vs K1 (tiempo de reacción y tasa de éxito de detección). |
+| Documentar, debatir, reflejar | 160–180 | Conclusión del ciclo Kaizen 1 y registro E3 personal. |
 
 ## 2 · Problema, hipótesis y trazabilidad
 
 | Campo | Completar |
 |---|---|
-| Fallo / oportunidad de mejora observada (con evidencia) | [...] |
-| Dónde se presenta y cuántas veces | [contexto + n, no generalizar] |
+| Fallo / oportunidad de mejora observada (con evidencia) | En el ensayo 3 del Día 2 se registró un retraso (2.1 s) debido a un ángulo ciego entre los sensores IR frontales y laterales, además de una altura mejorable en la cuña frontal. |
+| Dónde se presenta y cuántas veces | Se presentó en el 20% de las pruebas (1 de 5 corridas con oponentes a 45°). |
 | Diagnóstico: causas alternativas que se consideraron | [...] |
 | Hipótesis contrastable: **si cambio X, espero que Y ocurra porque Z** | [...] |
 | Variable independiente que se modifica | [...] |
