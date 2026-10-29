@@ -3,7 +3,7 @@ kaizen_dojo: "2026"
 formato: "Entregable diario G2"
 evidencia: "E3"
 dia: 3
-responsable_registro: ""
+responsable_registro: "@mimiprogramando"
 estado: "PENDIENTE"
 fecha: "2026-10-28"
 revision_docente: "PENDIENTE"
@@ -15,7 +15,7 @@ revision_docente: "PENDIENTE"
 
 ## 0 · Contexto de investigación de hoy
 
-**Fecha/equipo/misión:** [...] · **Dōjō exacto:** [...] · **Versión de partida:** [commit/etiqueta V1] · **Protocolo E2:** [enlace].
+**Fecha/equipo/misión:** 2026-10-28 · **Dōjō exacto:** Cubículo de Ingeniería en CCI · **Versión de partida:** [commit/etiqueta V1] · **Protocolo E2:** [enlace].
 
 ## 1 · Ruta del Día 3 (180 min)
 
