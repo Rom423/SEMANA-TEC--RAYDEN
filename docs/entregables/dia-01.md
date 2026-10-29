@@ -22,14 +22,6 @@ revision_docente: "PENDIENTE"
 | Misión / plataforma | M01 mini-sumo autónomo |
 | Objetivo verificable del robot (una frase) | Mejora de estrategia de ataque y búsqueda para obtener un robot competitivo |
 | **Dōjō asignado — campus, edificio y sala/taller exactos** | Campus León / CTA / Laboratorio de electrónica |
-| Puesto o zona dentro del dōjō | [Mesa, banco, espacio de vuelo, pista, dohyō o estación] |
-| Horario / reserva confirmada | [Fechas y bloque horario; quien la autorizó] |
-| Responsable del espacio y contacto institucional | [Nombre/cargo y canal institucional, sin publicar teléfonos privados] |
-| Acceso, aforo y ajustes de accesibilidad | [Restricciones de ingreso, capacidad, adecuaciones necesarias] |
-| Salidas, botiquín, extintor y punto de reunión | [Ubicación real validada al llegar] |
-| Zonas segregadas por riesgo | [Vuelo / herramientas / tránsito AMR / ensayo de pista] |
-| Ubicación de materiales y resguardo nocturno | [Gabinete/estante/inventario; responsable] |
-| Plan de sustitución si falla el espacio | [Dōjō alternativo con autorización; no improvisar espacio de vuelo] |
 | Instructor o supervisor presente en la sesión | Camilo Duque |
 
 > ⛔ **No se permite avanzar a pruebas físicas sin dōjō concreto y autorización del responsable.** No inventar salón, número de laboratorio ni recursos que no hayan sido confirmados.
