@@ -6,7 +6,7 @@ dia: 3
 responsable_registro: "mimiprogramando"
 estado: "Completado"
 fecha: "2026-10-28"
-revision_docente: "APROBADO"
+revision_docente: 
 ---
 
 # E3 · Día 3 — MI KAIZEN 1 | Aprendí a medir y mejorar
@@ -22,16 +22,15 @@ revision_docente: "APROBADO"
 | Hipótesis: si cambio X, espero Y porque Z | Si ajustamos los umbrales de disparo en el firmware para acoplarlos al nuevo soporte físico impreso a $\sim25^\circ$, entonces el tiempo de respuesta en diagonales disminuirá de forma estable porque el código procesará de manera síncrona la nueva cobertura óptica. |
 | Qué variable decidí cambiar y cuáles mantuve iguales | **Modificada:** Umbrales de lectura analógica y digital en el código para los sensores IR reubicados. **Constantes:** Lógica principal de la FSM, placa Arduino Nano temporal y dohyō oficial. |
 | Qué cambié personalmente en código, montaje o configuración | Modifiqué el archivo de código base ajustando los parámetros de lectura y validación de señales IR para sincronizarlos con la nueva geometría de los soportes mecánicos diseñados por @ROM423. |
-| Registro del cambio / versión K1 | Código adaptado a la nueva geometría física en el repositorio: `codigo/SegundoCodigo_Rayden.ino` |
+| Registro del cambio / versión K1 | Código adaptado a la nueva geometría física en el repositorio: [Segundo Código Rayden] (https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/06978296ceae782cede26164a8de15d605758087/codigo/SegundoCodigoRayden.ino)    |
 | Datos comparables: cuántos ensayos, condiciones y unidad | 5 corridas de prueba comparables en el dohyō oficial con rival estático y dinámico. Métrica: tiempo de reacción/detección en segundos (s). |
-| Valores V1 / K1 o enlace a datos crudos | **V1:** Promedio de 1.82 s (60% éxito). **K1 (post-ajuste de firmware y mecánico):** Promedio de 1.30 s (100% éxito). Datos crudos en `datos/ensayos.csv`. |
+| Valores V1 / K1 o enlace a datos crudos | **V1:** Promedio de 1.82 s (60% éxito). **K1 (post-ajuste de firmware y mecánico):** Promedio de 1.30 s (100% éxito). Datos crudos en [Ensayos](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/06978296ceae782cede26164a8de15d605758087/datos/ensayos.csv) |
 | ¿Mejoró, empeoró o no pude concluir? ¿Por qué? | **Mejoró:** La sincronización del firmware con el nuevo ángulo físico de los sensores eliminó los falsos positivos y redujo el tiempo medio de reacción a 1.30 s, alcanzando el 100% de efectividad tras el ajuste de la cuña. |
 | Qué entendí ahora que antes no comprendía | Comprendí que un cambio mecánico en la disposición de los sensores exige obligatoriamente una recalibración fina de los umbrales en el software para que la FSM tome decisiones ágiles y sin retrasos de lectura. |
 | Apoyo recibido u ofrecido a otra persona | Recibí los soportes físicos rediseñados y la cuña ajustada por @ROM423, colaborando en su validación directa mediante la lectura en el monitor serie de Arduino. |
 
 **Mi nueva pregunta para Kaizen 2:** ¿Podemos eliminar las caídas de voltaje de la protoboard y mejorar la aceleración inicial mediante la integración formal de la placa JSUMO xMotion V3 y la soldadura directa de los motores? 
 
-**Enlaces:** [Código y CAD en GitHub](https://github.com/Rom423/SEMANA-TEC--RAYDEN) · Datos de ensayos: `datos/ensayos.csv`
+**Enlaces:** [Código y CAD en GitHub](https://github.com/Rom423/SEMANA-TEC--RAYDEN) · Datos de ensayos: [Ensayos](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/06978296ceae782cede26164a8de15d605758087/datos/ensayos.csv)
 
-**Registro colectivo:** [`../../../docs/entregables/dia-03.md`](../../../docs/entregables/dia-03.md)
-```[cite: 7, 8]
+**Registro colectivo:** [DIA 3](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/main/docs/entregables/dia-03.md)
