@@ -36,9 +36,8 @@ revision_docente:
 2. [Código Final Rayden y asignación de hardware xMotion](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/06978296ceae782cede26164a8de15d605758087/codigo/SegundoCodigoRayden.ino)
 3. Registros de pruebas y datos crudos en [Ensayos](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/06978296ceae782cede26164a8de15d605758087/datos/ensayos.csv)
 
-**Autovaloración por aprendizaje:** Conquisté frontera: logré dominar la programación de una FSM robusta en entornos de alta exigencia temporal y hardware integrado sin fallos en la demostración final [DIA 5](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/main/docs/entregables/dia-05.md)
+**Autovaloración por aprendizaje:** Conquisté frontera: logré dominar la programación de una FSM robusta en entornos de alta exigencia temporal y hardware integrado sin fallos en la demostración final 
 
 **Mi frase de cierre:** “Antes no podía estructurar un sistema autónomo competitivo sin bloqueos ni errores de lectura. Ahora puedo diseñar máquinas de estado finitas eficientes y calibrar firmware de control en tiempo real, y lo demuestro con 100% de efectividad en el dohyō y código trazable en GitHub”[cite: 13, 14].
 
-**Registro colectivo:** [`../../../docs/entregables/dia-05.md`](../../../docs/entregables/dia-05.md)
-```[cite: 13, 14, 15]
+**Registro colectivo:** [DIA 5](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/main/docs/entregables/dia-05.md)
