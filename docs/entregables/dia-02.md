@@ -97,7 +97,7 @@ revision_docente: "APROBADO"
 - [x] Cada alumno actualizó su registro individual en `participantes/<alias>/dias/E2.md`.
 - [x] Se mantuvieron los límites de seguridad en las pruebas.
 
-**Gate E2:**
+**Gate E2:**  
 **Revisor:** Camilo Duque  
 **Fecha:** 2026-10-27  
 **Próxima prioridad de Kaizen 1:** Rediseñar en SolidWorks los soportes 3D de los sensores IR para cerrar el ángulo ciego y reimprimir la cuña frontal.
