@@ -6,7 +6,7 @@ dia: 5
 responsable_registro: "mimiprogramando"
 estado: "Completado"
 fecha: "2026-10-30"
-revision_docente: "APROBADO"
+revision_docente: 
 ---
 
 # E5 · Día 5 — MI CONQUISTA | Demostración y reflexión
@@ -32,11 +32,11 @@ revision_docente: "APROBADO"
 | Comentario recibido de par o profesor | **Profesor (Camilo Duque):** Destacó que el código está altamente estructurado y presenta excelentes tiempos de respuesta[cite: 14]. **Par (@Jamón):** Resaltó la velocidad de reacción tras la migración a la placa xMotion V3[cite: 14]. |
 
 **Enlaces a 2–3 evidencias contundentes:**
-1. [Repositorio público de GitHub - RAYDEN](https://github.com/Rom423/SEMANA-TEC--RAYDEN)[cite: 14]
-2. [Código Final Rayden y asignación de hardware xMotion](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/06978296ceae782cede26164a8de15d605758087/codigo/SegundoCodigoRayden.ino)[cite: 9, 13]
-3. Registros de pruebas y datos crudos en `datos/ensayos.csv`[cite: 10, 13]
+1. [Repositorio público de GitHub - RAYDEN](https://github.com/Rom423/SEMANA-TEC--RAYDEN)
+2. [Código Final Rayden y asignación de hardware xMotion](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/06978296ceae782cede26164a8de15d605758087/codigo/SegundoCodigoRayden.ino)
+3. Registros de pruebas y datos crudos en [Ensayos](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/06978296ceae782cede26164a8de15d605758087/datos/ensayos.csv)
 
-**Autovaloración por aprendizaje:** Conquisté frontera: logré dominar la programación de una FSM robusta en entornos de alta exigencia temporal y hardware integrado sin fallos en la demostración final[cite: 13, 14].
+**Autovaloración por aprendizaje:** Conquisté frontera: logré dominar la programación de una FSM robusta en entornos de alta exigencia temporal y hardware integrado sin fallos en la demostración final [DIA 5](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/main/docs/entregables/dia-05.md)
 
 **Mi frase de cierre:** “Antes no podía estructurar un sistema autónomo competitivo sin bloqueos ni errores de lectura. Ahora puedo diseñar máquinas de estado finitas eficientes y calibrar firmware de control en tiempo real, y lo demuestro con 100% de efectividad en el dohyō y código trazable en GitHub”[cite: 13, 14].
 
