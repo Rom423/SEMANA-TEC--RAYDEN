@@ -30,7 +30,7 @@ revision_docente: "APROBADO"
 | Microlección aplicada | 15-35 | Lógica de FSM (Búsqueda, Ataque, Evasión de Borde) y diagramas |
 | Katas de integración | 35-105 | @mimiprogramando: Primitivas de movimiento (MS07); @ROM423: Calibración IR/QTR y cuña (MS02, MS05, MS06) |
 | Ensayos iniciales / línea base | 105-145 | Pruebas de tracción y 5 ensayos en dohyō oficial |
-| Consolidación de evidencia | 145-170 | Registro de datos crudos en [datos](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/277f1ba101c710beecec6df6cc05f8c7eab22321/datos/ensayos.csv).|
+| Consolidación de evidencia | 145-170 | Registro de datos crudos en [datos](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/277f1ba101c710beecec6df6cc05f8c7eab22321/datos/ensayos.csv) |
 | Gate E2 | 170-180 | Documentación de fallos para ciclo Kaizen 1; E2 Aprobado |
 
 ## 2 Microlección e integración por alcances
