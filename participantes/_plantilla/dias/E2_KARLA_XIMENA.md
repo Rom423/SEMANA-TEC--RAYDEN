@@ -6,12 +6,10 @@ dia: 2
 responsable_registro: "mimiprogramando"
 estado: "Completado"
 fecha: "2026-10-27"
-revision_docente: "APROBADO"
+revision_docente: 
 ---
 
 # E2 · Día 2 — MI V1 | Qué integré y cómo lo comprobé
-
-> **Regla:** sustituir los corchetes, registrar lo realmente observado y enlazar a evidencias del repositorio. **No inventar datos ni marcar pruebas no realizadas.** Los archivos del equipo resumen el trabajo compartido; las reflexiones y evidencias personales van en `participantes/<alias>/dias/E2.md`.
 
 **Alias:** @mimiprogramando · **Alcance(s):** MS07, MS10, MS11 · **Kata(s) trabajados:** K1, K2 · **Equipo/dojo:** RAYDEN / Campus León / CTA / Laboratorio de electrónica.
 
@@ -30,4 +28,4 @@ revision_docente: "APROBADO"
 
 **V1 verificable de mi alcance:** [codigo/PrimerCodigo_Rayden.ino](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/main/codigo/PrimerCodigo_Rayden.ino). **Qué parte del kit ya está cumplida:** Primitivas de movimiento autónomo en FSM (MS07) y calibración básica del firmware de control (MS11). **Qué necesito medir/mejorar en D3:** Ajustar ligeramente los umbrales de disparo de lectura analógica/digital de los sensores IR para acoplar el código al nuevo ángulo de visión física que rediseñará el equipo (MS10).
 
-**Registro colectivo:** [`../../../docs/entregables/dia-02.md`](../../../docs/entregables/dia-02.md)
+**Registro colectivo:** [DIA 2](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/main/docs/entregables/dia-02.md)
