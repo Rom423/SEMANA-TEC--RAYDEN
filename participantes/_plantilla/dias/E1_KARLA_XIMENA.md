@@ -16,7 +16,7 @@ revision_docente: "APROBADO"
 
 ## A. Kit de configuración exportado de Mission Forge (OBLIGATORIO)
 
-- **Archivo original:** `../compromiso.md`
+- **Archivo original:** [Compromisos_Karla_Neri]https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/main/participantes/compromiso-kaizen-karla-ximena-jaime-neri.md
 - **Fecha/hora en que lo generé:** 2026-10-26 09:12
 - **ID/versión del catálogo:** C2/1.1
 
