@@ -1,26 +1,27 @@
-fecha,version,alcance_id,ensayo,condicion,metrica,unidad,valor,resultado,observaciones
-2026-10-27,V1,MS10,1,Rival al frente a 20 cm,tiempo_reaccion,s,1.2,exito,Detección limpia y embestida directa
-2026-10-27,V1,MS10,2,Rival al frente a 20 cm,tiempo_reaccion,s,1.4,exito,Correcto viraje y ataque
-2026-10-27,V1,MS10,3,Rival a 45 deg derecha,tiempo_reaccion,s,2.5,fallo,Ángulo ciego: el robot no vio al rival y terminó saliéndose del dohyō
-2026-10-27,V1,MS11,4,Rival en borde opuesto,tiempo_reaccion,s,1.8,exito,Frenó a tiempo en la línea blanca al errar la embestida
-2026-10-27,V1,MS10,5,Rival a 45 deg izquierda,tiempo_reaccion,s,2.2,fallo,Giro muy lento; el rival salió de su zona antes de ser embestido
-2026-10-28,K1,MS10,1,Rival al frente a 20 cm,tiempo_reaccion,s,1.1,exito,Detección limpia con nuevo soporte de sensores en PLA
-2026-10-28,K1,MS10,2,Rival al frente a 20 cm,tiempo_reaccion,s,1.2,exito,Embestida directa fluida
-2026-10-28,K1,MS02,3,Rival a 45 deg derecha,tiempo_reaccion,s,0.0,fallo,La cuña impresa en PLA quedó muy baja y se raspó/atoró contra la pista
-2026-10-28,K1,MS10,4,Rival a 45 deg derecha,tiempo_reaccion,s,1.4,exito,Prueba repetida tras lijar manualmente el borde inferior de la cuña
-2026-10-28,K1,MS11,5,Rival en borde opuesto,tiempo_reaccion,s,1.5,exito,Menos vacilación al girar y detenerse en el borde
-2026-10-29,K2,MS10,1,Rival al frente a 20 cm,tiempo_reaccion,s,0.9,exito,Respuesta de arranque inmediata tras integrar xMotion V3
-2026-10-29,K2,MS10,2,Rival al frente a 20 cm,tiempo_reaccion,s,1.0,exito,Giro ágil sin vibración en los conectores de motor
-2026-10-29,K2,MS10,3,Rival a 45 deg derecha,tiempo_reaccion,s,1.2,exito,Buena respuesta en ángulo de 45 deg con sensores bien fijos
-2026-10-29,K2,MS10,4,Rival a 45 deg izquierda,tiempo_reaccion,s,0.0,fallo,Falso contacto en bornera de motor izquierdo tras el primer impacto
-2026-10-29,K2,MS10,5,Rival a 45 deg izquierda,tiempo_reaccion,s,1.1,exito,Prueba superada tras reajustar y resoldar el terminal del motor
-2026-10-29,K2,MS10,6,Batería baja 11.1V y polvo,tiempo_reaccion,s,1.2,exito,Prueba de robustez: respuesta un poco más lenta pero estable
-2026-10-29,K2,MS10,7,Batería baja 11.1V y polvo,tiempo_reaccion,s,1.8,fallo,Perdió tracción en las ruedas por polvo acumulado y fue desplazado
-2026-10-29,K2,MS10,8,Batería baja 11.1V y polvo,tiempo_reaccion,s,1.3,exito,Reintentado tras limpiar ruedas con alcohol isopropílico
-2026-10-29,K2,MS11,9,Batería baja 11.1V y polvo,tiempo_reaccion,s,1.2,exito,Prueba de robustez: detención en borde blanco correcta
-2026-10-29,K2,MS10,10,Batería baja 11.1V y polvo,tiempo_reaccion,s,1.2,exito,Prueba de robustez: rutina completada sin más fallos
-2026-10-30,K2,MS10,1,Demo oficial: Rival al frente a 20 cm,tiempo_reaccion,s,0.85,exito,Demostración Día 5: Salida limpia con batería al 100% y embestida inmediata
-2026-10-30,K2,MS10,2,Demo oficial: Rival a 45 deg derecha,tiempo_reaccion,s,1.05,exito,Demostración Día 5: Giro ágil, barrido óptico rápido y ataque directo
-2026-10-30,K2,MS10,3,Demo oficial: Rival a 45 deg izquierda,tiempo_reaccion,s,1.02,exito,Demostración Día 5: Cobertura de sensores corregida al 100% en diagonal
-2026-10-30,K2,MS11,4,Demo oficial: Rival en borde opuesto,tiempo_reaccion,s,1.10,exito,Demostración Día 5: Embiste y se detiene sobre la línea blanca con QTR
-2026-10-30,K2,MS10,5,Demo oficial: Rival dinámico en movimiento,tiempo_reaccion,s,0.95,exito,Demostración Día 5: Rastreo efectivo y expulsión exitosa del oponente
+| Fecha | Versión | Alcance | Ensayo | Condición | Métrica | Unidad | Valor | Resultado | Observaciones |
+|---|---|---|---|---|---|---|---:|---|---|
+| 2026-10-27 | V1 | MS10 | 1 | Rival al frente a 20 cm | tiempo_reaccion | s | 1.2 | éxito | Detección limpia y embestida directa |
+| 2026-10-27 | V1 | MS10 | 2 | Rival al frente a 20 cm | tiempo_reaccion | s | 1.4 | éxito | Correcto viraje y ataque |
+| 2026-10-27 | V1 | MS10 | 3 | Rival a 45° derecha | tiempo_reaccion | s | 2.5 | fallo | Ángulo ciego: el robot no vio al rival y terminó saliéndose del dohyō |
+| 2026-10-27 | V1 | MS11 | 4 | Rival en borde opuesto | tiempo_reaccion | s | 1.8 | éxito | Frenó a tiempo en la línea blanca al errar la embestida |
+| 2026-10-27 | V1 | MS10 | 5 | Rival a 45° izquierda | tiempo_reaccion | s | 2.2 | fallo | Giro muy lento; el rival salió de su zona antes de ser embestido |
+| 2026-10-28 | K1 | MS10 | 1 | Rival al frente a 20 cm | tiempo_reaccion | s | 1.1 | éxito | Detección limpia con nuevo soporte de sensores en PLA |
+| 2026-10-28 | K1 | MS10 | 2 | Rival al frente a 20 cm | tiempo_reaccion | s | 1.2 | éxito | Embestida directa fluida |
+| 2026-10-28 | K1 | MS02 | 3 | Rival a 45° derecha | tiempo_reaccion | s | 0.0 | fallo | La cuña impresa en PLA quedó muy baja y se raspó/atoró contra la pista |
+| 2026-10-28 | K1 | MS10 | 4 | Rival a 45° derecha | tiempo_reaccion | s | 1.4 | éxito | Prueba repetida tras lijar manualmente el borde inferior de la cuña |
+| 2026-10-28 | K1 | MS11 | 5 | Rival en borde opuesto | tiempo_reaccion | s | 1.5 | éxito | Menos vacilación al girar y detenerse en el borde |
+| 2026-10-29 | K2 | MS10 | 1 | Rival al frente a 20 cm | tiempo_reaccion | s | 0.9 | éxito | Respuesta de arranque inmediata tras integrar xMotion V3 |
+| 2026-10-29 | K2 | MS10 | 2 | Rival al frente a 20 cm | tiempo_reaccion | s | 1.0 | éxito | Giro ágil sin vibración en los conectores de motor |
+| 2026-10-29 | K2 | MS10 | 3 | Rival a 45° derecha | tiempo_reaccion | s | 1.2 | éxito | Buena respuesta en ángulo de 45° con sensores bien fijos |
+| 2026-10-29 | K2 | MS10 | 4 | Rival a 45° izquierda | tiempo_reaccion | s | 0.0 | fallo | Falso contacto en bornera de motor izquierdo tras el primer impacto |
+| 2026-10-29 | K2 | MS10 | 5 | Rival a 45° izquierda | tiempo_reaccion | s | 1.1 | éxito | Prueba superada tras reajustar y resoldar el terminal del motor |
+| 2026-10-29 | K2 | MS10 | 6 | Batería baja 11.1 V y polvo | tiempo_reaccion | s | 1.2 | éxito | Prueba de robustez: respuesta un poco más lenta pero estable |
+| 2026-10-29 | K2 | MS10 | 7 | Batería baja 11.1 V y polvo | tiempo_reaccion | s | 1.8 | fallo | Perdió tracción en las ruedas por polvo acumulado y fue desplazado |
+| 2026-10-29 | K2 | MS10 | 8 | Batería baja 11.1 V y polvo | tiempo_reaccion | s | 1.3 | éxito | Reintentado tras limpiar ruedas con alcohol isopropílico |
+| 2026-10-29 | K2 | MS11 | 9 | Batería baja 11.1 V y polvo | tiempo_reaccion | s | 1.2 | éxito | Prueba de robustez: detención en borde blanco correcta |
+| 2026-10-29 | K2 | MS10 | 10 | Batería baja 11.1 V y polvo | tiempo_reaccion | s | 1.2 | éxito | Prueba de robustez: rutina completada sin más fallos |
+| 2026-10-30 | K2 | MS10 | 1 | Demo: Rival al frente 20 cm (Bat 100%) | tiempo_reaccion | s | 0.85 | éxito | Demostración final: salida limpia y embestida directa sin vacilación |
+| 2026-10-30 | K2 | MS10 | 2 | Demo: Rival a 45° derecha | tiempo_reaccion | s | 1.05 | éxito | Demostración final: giro ágil y barrido óptico completo |
+| 2026-10-30 | K2 | MS10 | 3 | Demo: Rival a 45° izquierda | tiempo_reaccion | s | 1.02 | éxito | Demostración final: detección limpia con soportes ajustados a 25° |
+| 2026-10-30 | K2 | MS11 | 4 | Demo: Rival en borde opuesto | tiempo_reaccion | s | 1.10 | éxito | Demostración final: ataque a máxima potencia y freno preventivo en línea blanca |
+| 2026-10-30 | K2 | MS10 | 5 | Demo: Rival dinámico en movimiento | tiempo_reaccion | s | 0.95 | éxito | Demostración final: rastreo efectivo y expulsión del rival |
