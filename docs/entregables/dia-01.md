@@ -51,8 +51,8 @@ revision_docente: "APROBADO"
 
 | Alias | Kit enlazado | Alcance principal | Complementos | Katas elegidos | Horas mín.-máx. | Evidencia final esperada | Negociación aprobada |
 |---|---|---|---|---|---|---|---|
-| @ROM423 | `participantes/ROM423/compromiso.md` | MS02 | MS05, MS06 | K1, K2 | 9-12 h | Video de pruebas y CAD final validado | Sí |
-| @mimiprogramando | `participantes/mimiprogramando/compromiso.md` | MS07 | MS10, MS11 | K1, K2, K3 | 9-12 h | Video de pruebas de ataque y repositorio de código | Sí |
+| @ROM423 | `participantes/compromiso-kaizen-karla-ximena-jaime-neri.md` | MS02 | MS05, MS06 | K1, K2 | 9-12 h | Video de pruebas y CAD final validado | Sí |
+| @mimiprogramando | `participantes/compromiso-kaizen-mauricio-rodriguez-martinez.md` | MS07 | MS10, MS11 | K1, K2, K3 | 9-12 h | Video de pruebas de ataque y repositorio de código | Sí |
 
 **Resultado de negociación grupal:**
 Aunque la estimación teórica por participante (9-12 h) excede la disponibilidad orientativa de 10 h, la negociación fue **APROBADA** por el docente Camilo Duque debido a que los alcances de mecánica/CAD (@ROM423) y firmware/FSM (@mimiprogramando) se ejecutan en paralelo, reduciendo la carga efectiva individual a ~6.5 horas.
