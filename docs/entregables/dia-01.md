@@ -35,7 +35,7 @@ revision_docente: "APROBADO"
 |---|---|---|
 | Plataforma base inspeccionada (estado, modelo, ID inventario) | Minisumo Rayden en fase de integración funcional | [docs/inventario.md](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/0fbd57b585966195a52b2dc4828b429047eb1107/datos/inventario_materiales.csv) |
 | Funciones existentes y límites comprobados | Chasis impreso, electrónica preliminar basada en Arduino Nano, sensores IR y QTR funcionales. | [codigo/test_sensores.ino](https://drive.google.com/drive/folders/14Y3g8qSaT5biWsKJrnndZYpBty7S89Eg?usp=sharing) |
-| Restricciones de competición o exhibición verificadas | Dimensiones (10x10 cm) y peso (máx. 500 g) verificados | `[docs/reglamento_minisumo.pdf]` |
+| Restricciones de competición o exhibición verificadas | Dimensiones (10x10 cm) y peso (máx. 500 g) verificados | [docs/reglamento_minisumo.pdf](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/1b9895cfbf8a2e58687364c232a2c91b44a6ce5b/herramientas/Reglamento.pdf) |
 | Riesgos vistos y medidas activas | Cuchilla afilada (navaja) y motores de alta tracción; requiere cubierta protectora | [docs/seguridad.md](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/f0afe7f0010fecbf4091b81b7b256fa9efa34853/docs/seguridad.md) |
 
 **Normas específicas según misión (M01):**
