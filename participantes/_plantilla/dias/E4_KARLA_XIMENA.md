@@ -6,12 +6,10 @@ dia: 4
 responsable_registro: "mimiprogramando"
 estado: "Completado"
 fecha: "2026-10-29"
-revision_docente: "APROBADO"
+revision_docente: 
 ---
 
 # E4 · Día 4 — MI KAIZEN 2 | Refiné, comparé y defendí
-
-> **Regla:** sustituir los corchetes, registrar lo realmente observado y enlazar a evidencias del repositorio. **No inventar datos ni marcar pruebas no realizadas.** Los archivos del equipo resumen el trabajo compartido; las reflexiones y evidencias personales van en `participantes/<alias>/dias/E4.md`.
 
 **Alias:** @mimiprogramando · **Alcance:** MS07, MS10, MS11 · **Versiones:** V1 (Arduino Nano en protoboard / 45° ciega)[cite: 3, 5]; K1 (Soportes IR a ~25° + cuña lijada)[cite: 6, 7]; K2 (JSUMO xMotion V3 + firmware optimizado PWM + soldadura limpia)[cite: 8, 9].
 
@@ -29,6 +27,6 @@ revision_docente: "APROBADO"
 | Qué demostraré en D5 como logro propio | La FSM no bloqueante programada con `millis()`, la calibración precisa de sensores de borde QTR para frenado preventivo y el control PWM optimizado para la placa xMotion V3[cite: 3, 11, 14]. |
 | Qué debo corregir antes de la presentación | Mantener la batería LiPo cargada al 100% y asegurar la limpieza con alcohol isopropílico de las ruedas de silicona antes de la demostración[cite: 11]. |
 
-**Artefacto o función para demo:** Firmware `SegundoCodigoRayden.ino` cargado en la placa JSUMO xMotion V3 ejecutando la FSM de búsqueda, ataque y evasión de borde en tiempo real[cite: 3, 9, 11]. **Evidencias:** Commit `06978296ceae782cede26164a8de15d605758087`, código fuente `codigo/SegundoCodigoRayden.ino` y registros crudos en `datos/ensayos.csv`[cite: 9, 10].
+**Artefacto o función para demo:** Firmware [Segundo Código Rayden](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/06978296ceae782cede26164a8de15d605758087/codigo/SegundoCodigoRayden.ino) cargado en la placa JSUMO xMotion V3 ejecutando la FSM de búsqueda, ataque y evasión de borde en tiempo real[cite: 3, 9, 11]. **Evidencias:** código fuente [Segundo Código Rayden](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/06978296ceae782cede26164a8de15d605758087/codigo/SegundoCodigoRayden.ino) y registros crudos en [Ensayos](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/06978296ceae782cede26164a8de15d605758087/datos/ensayos.csv)
 
-**Registro colectivo:** [`../../../docs/entregables/dia-04.md`](../../../docs/entregables/dia-04.md)
+**Registro colectivo:** [DIA 4](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/main/docs/entregables/dia-04.md)
