@@ -97,6 +97,6 @@ revision_docente: "APROBADO"
 - [x] Se inspeccionaron riesgos, paro de emergencia y seguridad.
 - [x] El profesor aprobó el alcance y las condiciones de seguridad.
 
-**Gate E1:** APROBADO  
+**Gate E1:**  
 **Revisor:** Camilo Duque  
 **Fecha:** 2026-10-26
