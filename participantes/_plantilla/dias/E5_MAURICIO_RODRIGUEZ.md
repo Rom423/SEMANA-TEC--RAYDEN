@@ -6,7 +6,7 @@ dia: 5
 responsable_registro: "Mauricio Rodríguez"
 estado: "Completado"
 fecha: "2026-10-30"
-revision_docente: "PENDIENTE"
+revision_docente: 
 ---
 
 # E5 · Día 5 — MI CONQUISTA | Demostración y reflexión
@@ -32,6 +32,6 @@ revision_docente: "PENDIENTE"
 **Enlaces a 2–3 evidencias contundentes:**
 1. [Repositorio público de GitHub - RAYDEN](https://github.com/Rom423/SEMANA-TEC--RAYDEN)[cite: 14]
 2. [Código Final Rayden y asignación de hardware xMotion](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/06978296ceae782cede26164a8de15d605758087/codigo/SegundoCodigoRayden.ino)[cite: 9, 13]
-3. Modelos CAD de soporte e integración mecánica: `cad/chasis_v1.sldprt` y `cad/soportes_ir_k1.sldprt`[cite: 3, 7]
+3. Modelos CAD de soporte e integración mecánica: [CAD](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/06978296ceae782cede26164a8de15d605758087/hardware/Raiden%20rumbo%20a%20japon.SLDPRT)
 
-**Registro colectivo:** [`../../../docs/entregables/dia-05.md`](../../../docs/entregables/dia-05.md)
+**Registro colectivo:** [DIA 5](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/main/docs/entregables/dia-05.md)
