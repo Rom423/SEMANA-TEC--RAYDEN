@@ -50,9 +50,8 @@ revision_docente: "APROBADO"
 | Energía y accionamiento | Batería LiPo 3S 11.4V | Alimentación regulada a lógica y motores DC | @mimiprogramando | Medición con multímetro; voltaje estable sin caídas de tensión | [inventario](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/1e3bd741321b595df4b781c2cbea3c200d76fafe/datos/inventario_materiales.csv) |
 | Sensores/percepción | Sensores JS40F y QTR-1RC | Lecturas digitales/analógicas estables | @ROM423 | Detección de contraste de línea blanca y distancia de rival comprobada | [codigo/PrimerCodigo_Rayden.ino](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/e149206f0970ecd95b8f658a21806b809238644a/codigo/PrimerCodigo_Rayden.ino) |
 | Control/software | FSM sobre Arduino Nano | Comandos PWM a motores DC | @mimiprogramando | Cambio de estado correcto de BÚSQUEDA a ATAQUE | [codigo/PrimerCodigo_Rayden.ino](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/e149206f0970ecd95b8f658a21806b809238644a/codigo/PrimerCodigo_Rayden.ino) |
-| Integración global | Señal sensorial completa | Movimiento autónomo en dohyō | Ambos | Ejecución de rutinas de ataque y freno en borde | `[pruebas/protocolo.md]` |
+| Integración global | Señal sensorial completa | Movimiento autónomo en dohyō | Ambos | Ejecución de rutinas de ataque y freno en borde | [pruebas](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/9dbe5cbde94213824e881dc2849934d1a2b01ad5/datos/ensayos.csv)` |
 
-**Versión identificable:** `commit-v1- baseline-arduinonano`  
 **Comportamiento que SÍ demuestra V1:** El robot detecta la línea de borde y cambia de dirección; ejecuta ataques frontales efectivos a corta distancia.  
 **Lo que aún falla:** Presencia de un ángulo ciego a 45° que genera retraso o pérdida de detección del oponente, provocando salirse del dohyō o giros muy lentos.
 
@@ -98,7 +97,7 @@ revision_docente: "APROBADO"
 - [x] Cada alumno actualizó su registro individual en `participantes/<alias>/dias/E2.md`.
 - [x] Se mantuvieron los límites de seguridad en las pruebas.
 
-**Gate E2:** APROBADO  
+**Gate E2:**
 **Revisor:** Camilo Duque  
 **Fecha:** 2026-10-27  
 **Próxima prioridad de Kaizen 1:** Rediseñar en SolidWorks los soportes 3D de los sensores IR para cerrar el ángulo ciego y reimprimir la cuña frontal.
