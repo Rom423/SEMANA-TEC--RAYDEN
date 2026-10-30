@@ -65,10 +65,4 @@ revision_docente:
 > **Mi pacto Kaizen:** “Al terminar la semana podré estructurar máquinas de estado finitas, calibrar sensores de contraste y programar ataques autónomos eficientes para el robot Rayden, demostrado mediante repositorio de código estructurado y pruebas exitosas en el dohyō.”
 
 - **Validación de profesor:
-- **Enlace a registro colectivo E1:** `../../../docs/entregables/dia-01.md`
-
-> **Mi pacto Kaizen:** “Al terminar la semana podré [verbo + objeto + condición + evidencia]”.
-
-* **Validación de profesor (o pendiente):** [...]
-* **Enlace a registro colectivo E1:** `../../../docs/entregables/dia-01.md`
-
+- **Enlace a registro colectivo E1:** [DIA 1](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/main/docs/entregables/dia-01.md)
