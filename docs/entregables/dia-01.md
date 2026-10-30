@@ -78,7 +78,7 @@ revision_docente: "APROBADO"
 | Retraso en integración de xMotion V3 | MS07, MS10 | Utilizar tarjeta Arduino Nano + driver externo temporal durante D2/D3 | Ninguno; ruta de respaldo validada |
 
 **Materiales completos para ejecutar el Día 2:** Sí.  
-**Confirmado por:** Camilo Duque a las 11:45 hrs (2026-10-26).
+**Confirmado por:** Ximena Neri a las 11:45 hrs (2026-10-26).
 
 ## 6 Kata 0 exploración técnica de arranque (100-160 min)
 
