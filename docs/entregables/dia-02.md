@@ -46,8 +46,8 @@ revision_docente: "APROBADO"
 
 | Subsistema | Entrada | Salida esperada | Responsable | Prueba de integración y observación | Evidencia |
 |---|---|---|---|---|---|
-- | Estructura/mecánica | Chasis impreso 3D | Ensamble rígido y ajuste de cuña | @ROM423 | Montaje completo y prueba de empuje manual limpia | [cad/chasis_v1.sldprt](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/72a3c4c8354637cf3a6339036df4e79acfc28471/hardware/Raiden%20rumbo%20a%20japon.SLDPRT) |
-| Energía y accionamiento | Batería LiPo 3S 11.4V | Alimentación regulada a lógica y motores DC | @mimiprogramando | Medición con multímetro; voltaje estable sin caídas de tensión | `[docs/inventario.md]` |
+- | Estructura/mecánica | Chasis impreso 3D | Ensamble rígido y ajuste de cuña | @ROM423 | Montaje completo y prueba de empuje manual limpia | [CAD](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/72a3c4c8354637cf3a6339036df4e79acfc28471/hardware/Raiden%20rumbo%20a%20japon.SLDPRT) |
+| Energía y accionamiento | Batería LiPo 3S 11.4V | Alimentación regulada a lógica y motores DC | @mimiprogramando | Medición con multímetro; voltaje estable sin caídas de tensión | [inventario](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/1e3bd741321b595df4b781c2cbea3c200d76fafe/datos/inventario_materiales.csv) |
 | Sensores/percepción | Sensores JS40F y QTR-1RC | Lecturas digitales/analógicas estables | @ROM423 | Detección de contraste de línea blanca y distancia de rival comprobada | `[codigo/test_sensores.ino]` |
 | Control/software | FSM sobre Arduino Nano | Comandos PWM a motores DC | @mimiprogramando | Cambio de estado correcto de BÚSQUEDA a ATAQUE | `[codigo/PrimerCodigo_Rayden.ino]` |
 | Integración global | Señal sensorial completa | Movimiento autónomo en dohyō | Ambos | Ejecución de rutinas de ataque y freno en borde | `[pruebas/protocolo.md]` |
