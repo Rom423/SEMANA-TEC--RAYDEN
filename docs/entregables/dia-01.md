@@ -84,7 +84,7 @@ revision_docente: "APROBADO"
 
 | Integrante/alcance | Pregunta técnica | Mini-prueba o prototipo de exploración | Resultado o error observado | Evidencia enlazada | Acción necesaria antes de D2 |
 |---|---|---|---|---|---|
-| @ROM423 | ¿El chasis 3D soporta la carga del módulo de motores y cuña? | Ensamble manual y prueba de empuje básico | Ajuste mecánico firme | `[cad/chasis_v1.sldprt]` | Imprimir soportes de repuesto |
+| @ROM423 | ¿El chasis 3D soporta la carga del módulo de motores y cuña? | Ensamble manual y prueba de empuje básico | Ajuste mecánico firme | [cad/chasis_v1.sldprt](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/57d780fc676ac320a3cda1ca0d785d211eee3a58/hardware/Raiden%20rumbo%20a%20japon.SLDPRT) | Imprimir soportes de repuesto |
 | @mimiprogramando | ¿El firmware lee correctamente los sensores IR sobre Arduino? | Lectura analógica/digital por puerto serie | Lecturas estables a 20 cm | `[codigo/test_ir.ino]` | Mapear pines definitivos para la FSM |
 
 ## 7 Cierre: contrato técnico y puerta de salida E1 (160-180 min)
