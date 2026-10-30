@@ -8,5 +8,4 @@
 - [ ] Si AMR: paros, zona delimitada, protecciones y sensores activos.
 - [ ] Si robot terrestre: estabilidad del montaje y límites de motor revisados.
 
-**Responsable de seguridad en sesión:** [@alias]  
-**Incidencias y acciones:** [registro, sin datos personales]
+**Responsable de seguridad en sesión:** [@ROM423]  
