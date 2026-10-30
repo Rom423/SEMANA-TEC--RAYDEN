@@ -47,9 +47,9 @@ revision_docente: "APROBADO"
 ## C. Kata 0 de exploración
 
 - **Pregunta técnica:** ¿El firmware en Arduino lee correctamente las señales analógicas y digitales de los sensores IR y QTR de manera estable?
-- **Prueba que realicé y materiales usados:** Carga de un script preliminar de lectura por puerto serie (`test_sensores.ino`) utilizando la placa Arduino Nano, sensores JS40F y QTR-1RC sobre el dohyō.
+- **Prueba que realicé y materiales usados:** Carga de un script preliminar de lectura por puerto serie utilizando la placa Arduino Nano, sensores JS40F y QTR-1RC sobre el dohyō.
 - **Qué funcionó / qué falló:** Las lecturas respondieron adecuadamente a los cambios de distancia y contraste, permitiendo mapear los umbrales iniciales necesarios para la FSM.
-- **Evidencia:** `codigo/test_sensores.ino`
+- **Evidencia:** [Primer_Código](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/main/codigo/PrimerCodigo_Rayden.ino)
 
 ---
 
