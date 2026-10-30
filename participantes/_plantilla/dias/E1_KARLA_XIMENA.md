@@ -7,7 +7,7 @@ responsable_registro: "mimiprogramando"
 participante: "Ximena Neri"
 estado: "Completado"
 fecha: "2026-10-26"
-revision_docente: "APROBADO"
+revision_docente: 
 ---
 
 # E1 · Día 1 — MI FRONTERA | Diagnóstico y pacto personal
@@ -64,7 +64,7 @@ revision_docente: "APROBADO"
 
 > **Mi pacto Kaizen:** “Al terminar la semana podré estructurar máquinas de estado finitas, calibrar sensores de contraste y programar ataques autónomos eficientes para el robot Rayden, demostrado mediante repositorio de código estructurado y pruebas exitosas en el dohyō.”
 
-- **Validación de profesor:** APROBADO por Camilo Duque el 2026-10-26.
+- **Validación de profesor:
 - **Enlace a registro colectivo E1:** `../../../docs/entregables/dia-01.md`
 
 > **Mi pacto Kaizen:** “Al terminar la semana podré [verbo + objeto + condición + evidencia]”.
