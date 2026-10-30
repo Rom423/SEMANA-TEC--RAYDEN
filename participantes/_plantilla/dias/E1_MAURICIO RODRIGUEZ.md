@@ -7,7 +7,7 @@ responsable_registro: "Mauricio Rodríguez"
 participante: "Mauricio Rodríguez Martínez"
 estado: "Completado"
 fecha: "2026-10-26"
-revision_docente: "APROBADO"
+revision_docente: 
 ---
 
 # E1 · Día 1 — MI FRONTERA | Diagnóstico y pacto personal
@@ -16,7 +16,7 @@ revision_docente: "APROBADO"
 
 ## A. Kit de configuración exportado de Mission Forge (OBLIGATORIO)
 
-* **Archivo original:** `../compromiso.md`
+* **Archivo original:** [Compromisos_Mauricio_Rodríguez](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/main/participantes/compromiso-kaizen-mauricio-rodriguez-martinez.md)
 * **Fecha/hora en que lo generé:** 2026-10-26 09:10
 * **ID/versión del catálogo:** C2/1.1
 
@@ -49,7 +49,8 @@ revision_docente: "APROBADO"
 * **Pregunta técnica:** ¿El chasis impreso en 3D soporta la carga física del módulo de motores DC y la estructura de la cuña sin deformarse o perder alineación?
 * **Prueba que realicé y materiales usados:** Ensamble manual del chasis base impreso en PLA, montaje de motores Core DC 6V 400/750 RPM con ruedas JS2622 y prueba de empuje manual en el dohyō oficial.
 * **Qué funcionó / qué falló:** Ajuste mecánico firme de la estructura base. Se detectó la necesidad de imprimir soportes de repuesto para ajustar ángulos de sensores.
-* **Evidencia:** `cad/chasis_v1.sldprt`
+* **Evidencia:** [CAD](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/06978296ceae782cede26164a8de15d605758087/hardware/Raiden%20rumbo%20a%20japon.SLDPRT)
+
 
 ---
 
@@ -65,5 +66,5 @@ revision_docente: "APROBADO"
 > **Mi pacto Kaizen:** “Al terminar la semana podré diseñar, imprimir y optimizar la geometría mecánica y de ataque del robot Rayden conforme a reglamento, logrando un 100% de efectividad en embestida sin puntos ciegos, demostrado mediante archivos CAD en el repositorio y video de pruebas en el dohyō.”
 
 * **Validación de profesor:** APROBADO por Camilo Duque el 2026-10-26.
-* **Enlace a registro colectivo E1:** `../../../docs/entregables/dia-01.md`| [...] |
+* **Enlace a registro colectivo E1:** [DIA 1](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/main/docs/entregables/dia-01.md)
 
