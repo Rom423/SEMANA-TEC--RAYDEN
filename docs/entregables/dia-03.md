@@ -51,8 +51,7 @@ revision_docente: "--"
 | Alias y alcance | Kata asociado | Qué cambió exactamente | Por qué | Código/CAD/commit y revisor | Validación de interfaz |
 |---|---|---|---|---|---|
 | @ROM423 | MS02 | Rediseño de cuña y nuevos soportes de sensores IR en SolidWorks impresos en PLA. | Para reducir el perfil ciego de 45° a ~25° y mejorar el perfil de ataque. | [CAD](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/06978296ceae782cede26164a8de15d605758087/hardware/Raiden%20rumbo%20a%20japon.SLDPRT) (@ROM423) | Ajuste mecánico sobre el chasis sin obstruir sensores QTR de borde. |
-| @mimiprogramando | MS07, MS10 | Ajuste menor en el umbral de disparo de lectura analógica/digital de los IR. | Para acoplar el código al nuevo ángulo de visión física de los sensores. | [Segundo Código Rayden](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/06978296ceae782cede26164a8de15d605758087/codigo/SegundoCodigoRayden.ino)
- (@mimiprogramando) | Recepción de señales IR verificada por puerto serie. |
+| @mimiprogramando | MS07, MS10 | Ajuste menor en el umbral de disparo de lectura analógica/digital de los IR. | Para acoplar el código al nuevo ángulo de visión física de los sensores. | [Segundo Código Rayden](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/06978296ceae782cede26164a8de15d605758087/codigo/SegundoCodigoRayden.ino) | Recepción de señales IR verificada en monitor serie. |
 
 ## 4 Ensayos comparables
 
