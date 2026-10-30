@@ -1,7 +1,5 @@
 # Índice de evidencias multimedia
 
-No subir videos pesados directamente. Guardar los archivos en una carpeta institucional con acceso controlado y enlazarlos aquí.
-
 | Día / E | Alcance | Tipo | Enlace (acceso controlado) | Fecha | Qué demuestra |
 |---|---|---|---|---|---|
 | E2 | MS01 | Foto/Video |https://drive.google.com/drive/folders/14Y3g8qSaT5biWsKJrnndZYpBty7S89Eg?usp=sharing | 27/10/2026 | Primera versión |
@@ -9,4 +7,4 @@ No subir videos pesados directamente. Guardar los archivos en una carpeta instit
 | E4 | MS01 | Foto/Video  | https://drive.google.com/drive/folders/14Y3g8qSaT5biWsKJrnndZYpBty7S89Eg?usp=sharing | 29/10/2026 | Ciclo 2 |
 | E5 | MS01 | Foto/Video  | https://drive.google.com/drive/folders/14Y3g8qSaT5biWsKJrnndZYpBty7S89Eg?usp=sharing | 30/10/2026 | Demo |
 
-Reemplazar las filas de ejemplo por evidencia real. No habilitar difusión pública de rostros, voces u otros datos sin consentimiento.
+
