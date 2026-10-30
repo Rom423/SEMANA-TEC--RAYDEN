@@ -47,7 +47,7 @@ revision_docente: "APROBADO"
 
 | Alias | Kit enlazado | Alcance principal | Complementos | Katas elegidos | Horas mín.-máx. | Evidencia final esperada | Negociación aprobada |
 |---|---|---|---|---|---|---|---|
-| @ROM423 | [compromisoximena](participantes/compromiso-kaizen-karla-ximena-jaime-neri.md) | MS02 | MS05, MS06 | K1, K2 | 9-12 h | Video de pruebas y CAD final validado | Sí |
+| @ROM423 | [compromisoximena]([participantes/compromiso-kaizen-karla-ximena-jaime-neri.md](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/2b05528171ec14a208a0ec19f9a77702006b38e6/participantes/compromiso-kaizen-karla-ximena-jaime-neri.md)) | MS02 | MS05, MS06 | K1, K2 | 9-12 h | Video de pruebas y CAD final validado | Sí |
 | @mimiprogramando | `participantes/compromiso-kaizen-mauricio-rodriguez-martinez.md` | MS07 | MS10, MS11 | K1, K2, K3 | 9-12 h | Video de pruebas de ataque y repositorio de código | Sí |
 
 **Resultado de negociación grupal:**
