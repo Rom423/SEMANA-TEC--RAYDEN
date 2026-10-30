@@ -6,7 +6,7 @@ dia: 5
 responsable_registro: "equipo"
 estado: "Completado"
 fecha: "2026-10-30"
-revision_docente: "VALIDADO"
+revision_docente: "PENDIENTE"
 ---
 
 # E5 Día 5 — DEMOSTRAR | Desafío, defensa técnica y cierre Kaizen
