@@ -51,7 +51,6 @@ revision_docente: "APROBADO"
 | @mimiprogramando | [compromiso kaizen ximena](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/2b05528171ec14a208a0ec19f9a77702006b38e6/participantes/compromiso-kaizen-karla-ximena-jaime-neri.md) | MS07 | MS10, MS11 | K1, K2, K3 | 9-12 h | Video de pruebas de ataque y repositorio de código | Sí |
 
 **Resultado de negociación grupal:**
-Aunque la estimación teórica por participante (9-12 h) excede la disponibilidad orientativa de 10 h, la negociación fue **APROBADA** por el docente Camilo Duque debido a que los alcances de mecánica/CAD (@ROM423) y firmware/FSM (@mimiprogramando) se ejecutan en paralelo, reduciendo la carga efectiva individual a ~6.5 horas.
 
 ## 5 Inventario exhaustivo y especificación de materiales (obligatorio)
 
