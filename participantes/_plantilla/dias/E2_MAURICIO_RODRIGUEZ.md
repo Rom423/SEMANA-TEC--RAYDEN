@@ -18,7 +18,7 @@ revision_docente: "APROBADO"
 | Microlección o concepto que utilicé realmente | Lógica de FSM (Máquina de Estados Finitos) para Búsqueda, Ataque y Evasión, e implementación de temporizadores no bloqueantes con `millis()`. |
 | Qué desarrollé yo (función, pieza, esquema, dato o algoritmo) | Montaje y ajuste mecánico de la cuña base, calibración física de umbrales analógicos IR/QTR y ensamble del chasis impreso en PLA. |
 | A qué componente del equipo se conectó | Al firmware del sistema ejecutado sobre la plataforma Arduino Nano temporal desarrollada por @mimiprogramando. |
-| Código/CAD/componente y ruta relativa | `codigo/PrimerCodigo_Rayden.ino` y `cad/chasis_v1.sldprt` |
+| Código/CAD/componente y ruta relativa |[Primer_Código](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/main/codigo/PrimerCodigo_Rayden.ino) y [CAD](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/06978296ceae782cede26164a8de15d605758087/hardware/Raiden%20rumbo%20a%20japon.SLDPRT) |
 | Commit/PR o evidencia de mi autoría | Integración de archivos CAD del chasis y calibración de sensores registradas en la rama principal del repositorio del equipo. |
 | Condición de ensayo o prueba que ejecuté | 5 corridas de prueba en dohyō oficial con rival estático a 20 cm y en ángulos laterales ($45^\circ$), alimentado con batería LiPo 3S 11.4V. |
 | Resultado observable, métrica y unidad | Tiempo medio de reacción/embestida: **1.82 s**. Tasa de éxito real V1: **60% (3/5 corridas)**. |
