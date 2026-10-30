@@ -1,3 +1,4 @@
+---
 kaizen_dojo: "2026"
 formato: "Entregable diario G2"
 evidencia: "E1"
@@ -7,6 +8,7 @@ participante: "Mauricio Rodríguez Martínez"
 estado: "Completado"
 fecha: "2026-10-26"
 revision_docente: "APROBADO"
+---
 
 # E1 · Día 1 — MI FRONTERA | Diagnóstico y pacto personal
 
