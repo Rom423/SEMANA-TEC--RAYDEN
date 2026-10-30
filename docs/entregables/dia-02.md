@@ -91,7 +91,7 @@ revision_docente: "APROBADO"
 | Cobertura ciega a 45° en sensores IR frontales/laterales | La disposición física en el chasis V1 limita la cobertura óptica | Alta | @ROM423 | Rediseñar soporte 3D en SolidWorks para ajustar ángulos |
 | Respuesta de aceleración limitada | Presencia de delays residuales y cableado en protoboard | Media | @mimiprogramando | Optimización FSM y preparación para migrar a xMotion V3 en K2 |
 
-- [x] Hay prototipo V1 y fallo reproducible con condiciones registradas en `datos/ensayos.csv`.
+- [x] Hay prototipo V1 y fallo reproducible con condiciones registradas en `[datos/ensayos.csv](https://github.com/Rom423/SEMANA-TEC--RAYDEN/tree/ab565698a5c4732cd37c3251329ad3331952332d/datos)`.
 - [x] Existen archivos fuente enlazados en el repositorio.
 - [x] Hay protocolo reproducible y valores basales cuantitativos.
 - [x] Cada alumno actualizó su registro individual en `participantes/<alias>/dias/E2.md`.
