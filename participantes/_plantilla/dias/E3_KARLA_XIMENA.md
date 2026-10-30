@@ -10,7 +10,7 @@ revision_docente: "PENDIENTE"
 ---
 
 # E3 · Día 3 — MI KAIZEN 1 | Aprendí a medir y mejorar
-
+https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/main/participantes/_plantilla/dias/E3_KARLA_XIMENA.md
 > **Regla:** sustituir los corchetes, registrar lo realmente observado y enlazar a evidencias del repositorio. **No inventar datos ni marcar pruebas no realizadas.** Los archivos del equipo resumen el trabajo compartido; las reflexiones y evidencias personales van en `participantes/<alias>/dias/E3.md`.
 
 **Alias:** [...] · **Alcance y kata relacionado:** [...] · **V1 de partida:** [versión/commit].
