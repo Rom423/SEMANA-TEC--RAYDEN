@@ -6,7 +6,7 @@ dia: 4
 responsable_registro: "Mauricio Rodríguez"
 estado: "Completado"
 fecha: "2026-10-29"
-revision_docente: "APROBADO"
+revision_docente: 
 ---
 
 # E4 · Día 4 — MI KAIZEN 2 | Refiné, comparé y defendí
@@ -27,6 +27,6 @@ revision_docente: "APROBADO"
 | Qué demostraré en D5 como logro propio | La rigidez del ensamble mecánico 3D, el correcto despeje y empuje de la navaja Mini Katana, y la eliminación de ángulos ciegos a $45^\circ$ en dohyō[cite: 10, 13]. |
 | Qué debo corregir antes de la presentación | Cargar la batería LiPo al 100% y limpiar minuciosamente las ruedas de silicona con alcohol isopropílico antes de cada combate[cite: 11]. |
 
-**Artefacto o función para demo:** Robot Rayden con chasis 3D, placa JSUMO xMotion V3, navaja Mini Katana integrada y soportes IR corregidos a ~25°[cite: 10]. **Evidencias:** Commit `06978296ceae782cede26164a8de15d605758087`, bitácora de datos en `datos/ensayos.csv` y archivo CAD en repositorio[cite: 9, 10].
+**Artefacto o función para demo:** Robot Rayden con chasis 3D, placa JSUMO xMotion V3, navaja Mini Katana integrada y soportes IR corregidos a ~25°[cite: 10]. **Evidencias:** bitácora de datos en [Ensayos](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/06978296ceae782cede26164a8de15d605758087/datos/ensayos.csv) y archivo [CAD](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/06978296ceae782cede26164a8de15d605758087/hardware/Raiden%20rumbo%20a%20japon.SLDPRT)
 
-**Registro colectivo:** [`../../../docs/entregables/dia-04.md`](../../../docs/entregables/dia-04.md)
+**Registro colectivo:** [DIA 4](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/main/docs/entregables/dia-04.md)
