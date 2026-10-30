@@ -6,7 +6,7 @@ dia: 2
 responsable_registro: "Mauricio Rodríguez"
 estado: "Completado"
 fecha: "2026-10-27"
-revision_docente: "APROBADO"
+revision_docente:
 ---
 
 # E2 · Día 2 — MI V1 | Qué integré y cómo lo comprobé
