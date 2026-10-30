@@ -39,8 +39,8 @@ revision_docente: "APROBADO"
 
 | Alias | Alcance | Kata seleccionado | Acción técnica ejecutada | Archivo, commit o plano | Estado | Dependencia |
 |---|---|---|---|---|---|---|
-| @ROM423 | MS02, MS05, MS06 | K1, K2 | Calibración de umbrales analógicos IR/QTR y montaje de cuña base | `[codigo/PrimerCodigo_Rayden.ino]` | Probado | Integración de firmware por @mimiprogramando |
-| @mimiprogramando | MS07, MS10, MS11 | K1, K2 | Programación de biblioteca de movimientos y lógica FSM en Arduino Nano | `[codigo/PrimerCodigo_Rayden.ino]` | Probado | Lectura de sensores de @ROM423 |
+| @ROM423 | MS02, MS05, MS06 | K1, K2 | Calibración de umbrales analógicos IR/QTR y montaje de cuña base | [codigo/PrimerCodigo_Rayden.ino](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/e149206f0970ecd95b8f658a21806b809238644a/codigo/PrimerCodigo_Rayden.ino) | Probado | Integración de firmware por @mimiprogramando |
+| @mimiprogramando | MS07, MS10, MS11 | K1, K2 | Programación de biblioteca de movimientos y lógica FSM en Arduino Nano |  [codigo/PrimerCodigo_Rayden.ino](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/e149206f0970ecd95b8f658a21806b809238644a/codigo/PrimerCodigo_Rayden.ino) | Probado | Lectura de sensores de @ROM423 |
 
 ## 3 Estado de integración V1
 
