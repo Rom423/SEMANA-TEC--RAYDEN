@@ -18,7 +18,7 @@ revision_docente:
 | Microlección o concepto que utilicé realmente | Lógica de FSM (Máquina de Estados Finitos) para las rutinas de Búsqueda, Ataque y Evasión de Borde, combinada con temporizadores no bloqueantes mediante `millis()`. |
 | Qué desarrollé yo (función, pieza, esquema, dato o algoritmo) | Programación de la biblioteca de movimientos y la estructura principal de la FSM sobre la plataforma temporal Arduino Nano, gestionando las señales de los sensores IR y QTR. |
 | A qué componente del equipo se conectó | Al chasis impreso en 3D, la cuña base y la calibración analógica de sensores realizada por @ROM423. |
-| Código/CAD/componente y ruta relativa | `codigo/PrimerCodigo_Rayden.ino` |
+| Código/CAD/componente y ruta relativa |[Primer_Código](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/main/codigo/PrimerCodigo_Rayden.ino)|
 | Commit/PR o evidencia de mi autoría | Estructuración y carga del código base de control de motores y lectura de sensores en la rama principal del repositorio del equipo. |
 | Condición de ensayo o prueba que ejecuté | 5 corridas de prueba en el dohyō oficial evaluando tiempos de reacción y embestida ante un rival estático a 20 cm y en ángulos diagonales ($45^\circ$), usando batería LiPo 3S 11.4V. |
 | Resultado observable, métrica y unidad | Tiempo medio de reacción/embestida: **1.82 s**. Tasa de éxito real V1: **60% (3/5 corridas)**. |
