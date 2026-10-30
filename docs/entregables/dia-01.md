@@ -9,8 +9,6 @@ revision_docente: "APROBADO"
 
 # E1 Día 1 - ATREVERSE | Contrato de misión, inventario y dōjō
 
-> **Regla:** sustituir los corchetes, registrar lo realmente observado y enlazar a evidencias del repositorio. **No inventar datos ni marcar pruebas no realizadas.** Los archivos del equipo resumen el trabajo compartido; las reflexiones y evidencias personales van en `participantes/<alias>/dias/E1.md`.
-
 ## 0 Identificación, equipo y logística del dōjō
 
 | Campo obligatorio | Dato |
@@ -21,8 +19,6 @@ revision_docente: "APROBADO"
 | Objetivo verificable del robot (una frase) | Mejora de estrategia de ataque y búsqueda para obtener un robot altamente competitivo. |
 | **Dōjō asignado - campus, edificio y sala/taller exactos** | Campus León / CTA / Laboratorio de electrónica |
 | Instructor o supervisor presente en la sesión | Camilo Duque |
-
-> **No se permite avanzar a pruebas físicas sin dōjō concreto y autorización del responsable.** No inventar salón, número de laboratorio ni recursos que no hayan sido confirmados.
 
 ## 1 Integrantes, responsabilidades, accesibilidad y decisiones (0-15 min)
 
