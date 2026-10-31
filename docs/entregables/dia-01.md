@@ -97,6 +97,8 @@ revision_docente: "APROBADO"
 - [x] Se inspeccionaron riesgos, paro de emergencia y seguridad.
 - [x] El profesor aprobó el alcance y las condiciones de seguridad.
 
+[Ver nota de ideación SCAMPER + IA](https://github.com/Rom423/SEMANA-TEC--RAYDEN/blob/main/docs/entregables/ideacion-scamper-ia.md)
+
 **Gate E1:**  
 **Revisor:** Camilo Duque  
 **Fecha:** 2026-10-26
