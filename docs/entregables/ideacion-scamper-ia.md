@@ -20,6 +20,3 @@
 ## 4. Propuesta Final Elegida
 Implementar el rediseño CAD de soportes a ~25° (Alt 1) acoplado con ajuste de umbrales en el firmware. Se comprobará en D3 mediante 5 ensayos cuantitativos.
 
-## 5. Conexión con Entregables
-* **Enlace desde E1:** [`docs/entregables/dia-01.md`](../docs/entregables/dia-01.md)
-* **Evolución en D2/D3:** Esta hipótesis dio origen al cambio de soporte K1 en el Día 3.
